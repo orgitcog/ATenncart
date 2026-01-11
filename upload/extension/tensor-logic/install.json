@@ -1,0 +1,7 @@
+{
+  "name": "Tensor Logic",
+  "description": "Tensor operations and neural network functionality for OpenCart using ATen & nn principles",
+  "version": "1.0.0",
+  "author": "tensor-logic.org",
+  "link": "https://tensor-logic.org"
+}
